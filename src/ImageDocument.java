@@ -15,6 +15,7 @@ public class ImageDocument {
     }
 
     public void addTransform(Effect t) {
+        System.out.println("Adding transform GrayScale...");
         transforms.add(t);
     }
 
