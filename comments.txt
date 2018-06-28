@@ -1,6 +1,0 @@
-2. Having implemented the software, briefly describe any issues you found in implementing this model in Java
-and how you would address these issues in the dynamic models.
-
-Needs more private modifiers
-a lot of coupling
-
